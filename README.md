@@ -66,5 +66,5 @@ The app follows the **MVVM architecture** for maintainability and scalability:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/open-borders.git
+git https://github.com/Daniyal-Dev-khan/Open-Borders.git
 cd open-borders
